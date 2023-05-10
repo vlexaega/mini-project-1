@@ -13,12 +13,12 @@ footer {
 }
 
 main {
-    min-height: 80vh;
+    min-height: 13vh;
 }
 
 header {
     background-color: rgb(178, 178, 236);
-    position: absolute;
+    position: fixed;
     left: 0;
     right: 0;
 
@@ -27,6 +27,13 @@ header {
 ul {
     position: relative;
     list-style-type: none;
-    left: 450px
+    left: 701px;
+    top: -13px;
 
 }
+
+#contact {
+    position:relative;
+    right: 100px
+}
+
