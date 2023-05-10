@@ -17,14 +17,16 @@ main {
 }
 
 header {
-    background-color: blue;
+    background-color: rgb(178, 178, 236);
     position: absolute;
     left: 0;
     right: 0;
 
 }
 
-.myitems{
-    position: relative
+ul {
+    position: relative;
+    list-style-type: none;
+    left: 450px
 
 }
