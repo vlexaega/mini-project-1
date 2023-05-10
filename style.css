@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box
+    /*wireframing border*/;
+    border: 1px solid red;
+    padding: 0;
+    margin: 0;
+}
+
+header,
+main,
+footer {
+    padding: 16px
+}
+
+main {
+    min-height: 80vh;
+}
